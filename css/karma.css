@@ -523,7 +523,7 @@ img.logo {
 
 .introduction {
     height: 45rem;
-    background-image: url('../images/first-background.jpg');
+    background-image: url('../Images/first-background.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     vertical-align: middle;
